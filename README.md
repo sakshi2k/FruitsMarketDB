@@ -6,4 +6,4 @@ Schemas :
 1. Fruits
 2. Customers
 
-// PS : only for practice work.
+// PS : only for practice.

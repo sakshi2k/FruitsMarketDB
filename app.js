@@ -20,9 +20,9 @@ const Fruit1 = new Fruit({
     nutrient_content: "Carbs"
 });
 
-// Fruit1.save(()=>{
+// Fruit1.save(()=>{                     // to save the one instance
 //     console.log("Inserted");
-// });        // to save the one instance
+// });        
 
 const Fruit2 = new Fruit({
     name: "Kiwi",
